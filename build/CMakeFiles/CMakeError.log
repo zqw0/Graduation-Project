@@ -1,0 +1,28 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/zqw/Graduation-Project/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_f1c73/fast"
+make: *** 没有规则可制作目标“cmTC_f1c73/fast”。 停止。
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/zqw/Graduation-Project/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_9e024/fast"
+make: *** 没有规则可制作目标“cmTC_9e024/fast”。 停止。
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/zqw/Graduation-Project/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_dc5a2/fast"
+make: *** 没有规则可制作目标“cmTC_dc5a2/fast”。 停止。
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/zqw/Graduation-Project/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_1e76a/fast"
+make: *** 没有规则可制作目标“cmTC_1e76a/fast”。 停止。
+
+

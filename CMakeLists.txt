@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.4)
+include_directories(baseinclude)
+set(MYLIB)
+add_subdirectory(baselib)
+link_libraries(pthread)
+add_subdirectory(src)

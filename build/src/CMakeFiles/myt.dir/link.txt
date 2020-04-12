@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/myt.dir/__/mylib/zqwmutex.cc.o CMakeFiles/myt.dir/__/mylib/zqwpthread.cc.o CMakeFiles/myt.dir/__/mylib/zqwsocket.cc.o CMakeFiles/myt.dir/main.cc.o  -o myt -lpthread 

@@ -1,0 +1,4 @@
+file(GLOB SRC_LIST_CPP ${CMAKE_CURRENT_SOURCE_DIR}/*.cc)
+message("find cc path = ${SRC_LIST_CPP}")
+list(APPEND MYLIB ${SRC_LIST_CPP})
+set(MYLIB ${MYLIB} PARENT_SCOPE)

@@ -1,0 +1,108 @@
+The system is: Linux - 5.3.0-29-generic - x86_64
+The system is: Linux - 5.3.0-29-generic - x86_64
+The system is: Linux - 5.3.0-29-generic - x86_64
+The system is: Linux - 5.3.0-29-generic - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /bin/gcc-9 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /bin/gcc-9 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /bin/gcc-9 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+
+The C compiler identification is GNU, found in "/home/zqw/Graduation-Project/build/CMakeFiles/3.13.4/CompilerIdC/a.out"
+
+The C compiler identification is GNU, found in "/home/zqw/Graduation-Project/build/CMakeFiles/3.13.4/CompilerIdC/a.out"
+
+The C compiler identification is GNU, found in "/home/zqw/Graduation-Project/build/CMakeFiles/3.13.4/CompilerIdC/a.out"
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /bin/gcc-9 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+
+The C compiler identification is GNU, found in "/home/zqw/Graduation-Project/build/CMakeFiles/3.13.4/CompilerIdC/a.out"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /bin/g++-9 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /bin/g++-9 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+
+The CXX compiler identification is GNU, found in "/home/zqw/Graduation-Project/build/CMakeFiles/3.13.4/CompilerIdCXX/a.out"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /bin/g++-9 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /bin/g++-9 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+The CXX compiler identification is GNU, found in "/home/zqw/Graduation-Project/build/CMakeFiles/3.13.4/CompilerIdCXX/a.out"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+
+The CXX compiler identification is GNU, found in "/home/zqw/Graduation-Project/build/CMakeFiles/3.13.4/CompilerIdCXX/a.out"
+
+The CXX compiler identification is GNU, found in "/home/zqw/Graduation-Project/build/CMakeFiles/3.13.4/CompilerIdCXX/a.out"
+
